@@ -1,5 +1,3 @@
------------------------------------------
-
 # The Coding Bootcamp at UNC Charlotte (UNC-CCC-FSF-PT-01-2020-U-C)
 
 ## January 2020 Curriculum Syllabus
