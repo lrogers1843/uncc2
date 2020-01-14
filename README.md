@@ -26,6 +26,9 @@ Homework submissions **must be on time AS IS**. Late submissions will not be cou
 
 [Submit your homework here!](https://bootcampspot.com)
 
+**Week 1 --- due by: January 27, 2020**<br />
+[Code Refactor](https://unchar.bootcampcontent.com/The-Coding-Bootcamp/unc-ccc-fsf-pt-01-2020-u-c/tree/master/01-HTML-Git-CSS/02-Homework)
+
 -----------------------------------------
 
 ## Resources
