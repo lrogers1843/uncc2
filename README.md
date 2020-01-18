@@ -33,6 +33,10 @@ Homework submissions **must be on time AS IS**. Late submissions will not be cou
 
 ## Resources
 
+* [HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+* [CSS Specificity](https://www.w3schools.com/css/css_specificity.asp)
+
 ## Helpful Links
 
 * [Generating an SSH Key for GitHub](https://help.github.com/articles/generating-an-ssh-key/)
