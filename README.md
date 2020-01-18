@@ -57,7 +57,7 @@ Homework submissions **must be on time AS IS**. Late submissions will not be cou
 | ---- | ---------------------------------------------- | -------- | ----------- | ---------- | ------------------------- |
 | 1.1  | The Zen of Coding                              | 1/13/20  | Monday      | 6:30 PM    | [Slides](https://unccccfsfpt01-84k9730.slack.com/files/USAKVFQTA/FSMP5UAA1/webdev_01.1_the_zen_of_coding.pptx), [Recording](https://www.bootcampspot.com/sessions/983545/videos/68898) |
 | 1.2  | Git'n Pro with HTML/CSS                        | 1/15/20  | Wednesday   | 6:30 PM    | [Slides](https://unccccfsfpt01-84k9730.slack.com/files/USAKVFQTA/FSJ32G50R/webdev-pt-01-2-git_n-pro-with-html-css.pptx), [Recording](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06c3cbd9-1388-4d17-9051-ab43018382b5) |
-| 1.3  | Heroes of CSS                                  | 1/18/20  | Saturday    | 10:00 AM   | [Recording](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=75213bef-6ca4-43d5-a627-ab4600fa2d63) |
+| 1.3  | Heroes of CSS                                  | 1/18/20  | Saturday    | 10:00 AM   | [Slides](https://unccccfsfpt01-84k9730.slack.com/files/USAKVFQTA/FSU9MD9TJ/webdev-pt-01-3-heroes-of-css.pptx), [Recording](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=75213bef-6ca4-43d5-a627-ab4600fa2d63) |
 | 2.1  | Going Live                                     | 1/22/20  | Wednesday   | 6:30 PM    |  |
 | 2.2  | Down and Dirty CSS                             | 1/25/20  | Saturday    | 10:00 AM   |  |
 | 2.3  | Bootstrap Layouts and Responsive Designs       | 1/27/20  | Monday      | 6:30 PM    |  |
