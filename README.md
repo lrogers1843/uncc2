@@ -29,6 +29,9 @@ Homework submissions **must be on time AS IS**. Late submissions will not be cou
 **Week 1 --- due by: January 27, 2020**<br />
 [Code Refactor](https://unchar.bootcampcontent.com/The-Coding-Bootcamp/unc-ccc-fsf-pt-01-2020-u-c/tree/master/01-HTML-Git-CSS/02-Homework)
 
+**Week 2 -- due by: February 3, 2020**<br />
+[Responsive Portfolio](https://unchar.bootcampcontent.com/The-Coding-Bootcamp/unc-ccc-fsf-pt-01-2020-u-c/tree/master/02-CSS-Bootstrap/02-Homework)
+
 -----------------------------------------
 
 ## Resources
@@ -36,6 +39,12 @@ Homework submissions **must be on time AS IS**. Late submissions will not be cou
 * [HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 * [CSS Specificity](https://www.w3schools.com/css/css_specificity.asp)
+
+* [Art of README](https://github.com/noffle/art-of-readme#readme)
+
+* [A template to make good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Helpful Links
 
