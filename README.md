@@ -65,6 +65,7 @@ Homework submissions **must be on time AS IS**. Late submissions will not be cou
     * [Lesson 1.3 - Positioning in CSS](https://www.youtube.com/watch?v=sHfJn0jqBro&feature=youtu.be)
 * **CSS/Bootstrap**
     * [CSS Grid](https://www.youtube.com/watch?v=wQovwgW020g)
+    * [Lesson 2.3 - Media Queries](https://www.youtube.com/watch?v=x_wlcp-W27c)
 
 -----------------------------------------
 
