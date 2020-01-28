@@ -63,6 +63,8 @@ Homework submissions **must be on time AS IS**. Late submissions will not be cou
     * [Lesson 1.2 - Student Bio Layout](https://www.youtube.com/watch?v=kMBinXTCrXI&list=PLgJ8UgkiorCnMLsUevoQRxH8t9bt7ne14&index=2)
     * [Lesson 1.3 - Floats in CSS](https://www.youtube.com/watch?v=0lpxKw6E90Y&feature=youtu.be)
     * [Lesson 1.3 - Positioning in CSS](https://www.youtube.com/watch?v=sHfJn0jqBro&feature=youtu.be)
+* **CSS/Bootstrap**
+    * [CSS Grid](https://www.youtube.com/watch?v=wQovwgW020g)
 
 -----------------------------------------
 
@@ -75,7 +77,7 @@ Homework submissions **must be on time AS IS**. Late submissions will not be cou
 | 1.3  | Heroes of CSS                                  | 1/18/20  | Saturday    | 10:00 AM   | [Slides](https://unchar.bootcampcontent.com/The-Coding-Bootcamp/unc-ccc-fsf-pt-01-2020-u-c/blob/master/01-HTML-Git-CSS/Slides/webdev-pt-01-3-heroes-of-CSS.pdf), [Recording](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=75213bef-6ca4-43d5-a627-ab4600fa2d63) |
 | 2.1  | Going Live                                     | 1/22/20  | Wednesday   | 6:30 PM    | [Slides](https://unchar.bootcampcontent.com/The-Coding-Bootcamp/unc-ccc-fsf-pt-01-2020-u-c/blob/master/02-CSS-Bootstrap/Slides/webdev-pt-02-1-going-live.pdf), [Recording](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38638946-5d1b-4306-9f8b-ab4a0183f24a) |
 | 2.2  | Down and Dirty CSS                             | 1/25/20  | Saturday    | 10:00 AM   | [Slides](https://unchar.bootcampcontent.com/The-Coding-Bootcamp/unc-ccc-fsf-pt-01-2020-u-c/blob/master/02-CSS-Bootstrap/Slides/webdev-pt-02-2-down-and-dirty-CSS.pdf), [Recording Pt 1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88031001-87ac-422d-ad2d-ab4d00f7abae), [Recording Pt 2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04e40f91-1072-47c3-8495-ab4d0118bf93) |
-| 2.3  | Bootstrap Layouts and Responsive Designs       | 1/27/20  | Monday      | 6:30 PM    | [Slides](https://unchar.bootcampcontent.com/The-Coding-Bootcamp/unc-ccc-fsf-pt-01-2020-u-c/blob/master/02-CSS-Bootstrap/Slides/webdev-pt-2-3-bootstrap-layouts-and-responsive-designs.pdf) |
+| 2.3  | Bootstrap Layouts and Responsive Designs       | 1/27/20  | Monday      | 6:30 PM    | [Slides](https://unchar.bootcampcontent.com/The-Coding-Bootcamp/unc-ccc-fsf-pt-01-2020-u-c/blob/master/02-CSS-Bootstrap/Slides/webdev-pt-2-3-bootstrap-layouts-and-responsive-designs.pdf), [Recording](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=166cc2b7-4e6a-4064-bb6b-ab4f01832370) |
 | 3.1  | Joys of JavaScript                             | 1/29/20  | Wednesday   | 6:30 PM    |  |
 | 3.2  | Jumping for JavaScript                         | 2/1/20   | Saturday    | 10:00 AM   |  |
 | 3.3  | JavaScript Juggernauts                         | 2/3/20   | Monday      | 6:30 PM    |  |
