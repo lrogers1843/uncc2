@@ -36,6 +36,9 @@ Homework submissions **should be on time**.
 **Week 4 -- due by: February 19, 2020**<br />
 [Code Quiz](https://unchar.bootcampcontent.com/The-Coding-Bootcamp/unc-ccc-fsf-pt-01-2020-u-c/tree/master/04-Web-APIs/02-Homework)
 
+**Week 5 -- due by: February 26, 2020**<br />
+[Day Planner](https://unchar.bootcampcontent.com/The-Coding-Bootcamp/unc-ccc-fsf-pt-01-2020-u-c/tree/master/05-Third-Party-APIs/02-Homework)
+
 ---
 
 ## Resources
