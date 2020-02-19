@@ -3,40 +3,61 @@
  **/
 
 * {
-  box-sizing: border-box;
-  text-align: center;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
 }
 
-body {
-}
+body {}
 
 header {
-  padding: 20px;
-  margin-bottom: 20px;
-  color: #333;
-  background: #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ccc;
 }
 
 section {
+    padding: 20px;
+    margin: 0 0 20px 0;
 }
 
 #left {
+    background: #666;
+    float: left;
+    width: 33.333%;
 }
 
 #middle {
+    background: #888;
+    width: 33.333%;
+    float: left;
 }
 
 #right {
+    background: #666;
+    float: left;
+    width: 33.333%;
 }
 
 #full {
+    background: #eee;
+    contain: content;
 }
 
 #division {
+    background: #6ea3da;
 }
 
 aside {
+    background: #fff;
+    height: 200px;
+    float: left;
+    width: 33.333%;
+    margin-left: 30px;
 }
 
 footer {
+    background: #ccc;
 }

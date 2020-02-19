@@ -11,22 +11,32 @@ var people = [{ name: "Bob" }];
 var currentId = 0;
 
 function addPersonToList(event) {
-  event.preventDefault();
-  var name = nameEl.value;
-  var li = document.createElement("li");
-  li.id = people.length;
-  li.innerHTML = name + " <button>edit</button>";
-  people.push({ name: name });
-  peopleListEl.append(li);
+    event.preventDefault();
+    var name = nameEl.value;
+    var li = document.createElement("li");
+    li.id = people.length;
+    li.innerHTML = name + " <button>edit</button>";
+    people.push({ name: name });
+    peopleListEl.append(li);
 }
 
 function close() {
-  modalEl.style.display = "none";
+    modalEl.style.display = "none";
 }
 
-function handleClick() {
-  // Use event delegation to handle when the user clicks "edit"
-}
 
-closeEl.addEventListener("click", close);
-addBtn.addEventListener("click", addPersonToList);
+function handleClick(event) {
+    if (event.target.matches("button")) {
+        event.preventDefault();
+        modalEl.style.display = "block";
+        currentId = parseInt(event.target.parentElement.id);
+        var name = people[currentId].name;
+        var description = people[currentId].description;
+        modalNameEl.textContent = name;
+        if (description) {
+            descriptionEl.value = description;
+        } else {
+            descriptionEl.value = "";
+        }
+    }
+}
